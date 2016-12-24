@@ -9,6 +9,7 @@ import { GitHubApiService } from '../services/github.service';
 export class ProfileComponent {
   user: any;
   repos: any[];
+  userName:string = "";
   errorOccured: boolean = false;
   constructor(private _gitHubService: GitHubApiService) {
     this.user = false;

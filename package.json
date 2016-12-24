@@ -1,10 +1,10 @@
 {
-  "name": "angular2-barebones",
-  "author": "Dan Wahlin",
-  "version": "0.8.0",
+  "name": "Angular-GithubSearch",
+  "author": "Suraj Negi",
+  "version": "1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwahlin/angular2-barebones"
+    "url": ""
   },
   "scripts": {
     "postinstall": "typings install",

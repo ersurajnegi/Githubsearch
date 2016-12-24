@@ -1,0 +1,1 @@
+{"version":3,"file":"common.compnent.js","sourceRoot":"","sources":["common.compnent.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAAyB,eAAe,CAAC,CAAA;AAMzC;IACI;QACI,OAAO,CAAC,GAAG,CAAC,0BAA0B,CAAC,CAAC;IAC5C,CAAC;IAPL;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAC,kBAAkB;YAC3B,QAAQ,EAAC,0BAA0B;SACtC,CAAC;;uBAAA;IAKF,sBAAC;AAAD,CAAC,AAJD,IAIC;AAJY,uBAAe,kBAI3B,CAAA"}
